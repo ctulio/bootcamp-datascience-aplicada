@@ -1,4 +1,5 @@
-# Bootcamp Data Science Aplicada Alura :atom::diving_mask:
+# Bootcamp Data Science Aplicada Alura
+:atom::diving_mask:
 
 Este é essencialmente um repositório de notas, exercícios e materiais diversos do Bootcamp de Data Science Aplicado da Alura.
 Aqui você vai encontrar Jupyter notebooks contendo técnicas de análise de dados, estatística, modelagem e visualização de dados em datasets reais na área da saúde.
