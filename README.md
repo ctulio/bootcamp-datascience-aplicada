@@ -10,3 +10,6 @@ Caso deseje fazer alguma correção/sugestão no repositório, issues e pull req
 Estou no [twitter/ctulio](https://www.twitter.com/ctulio) também.
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/ctulio?style=social)
+
+![Image distribution](/images/distribution.jpg)
+
